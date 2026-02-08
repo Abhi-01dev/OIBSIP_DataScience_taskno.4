@@ -1,8 +1,13 @@
 # OIBSIP_DataScience_taskno.4
+
 Name Abhishek Kalekar 
-Data Science Intern 
-Oasisinfobyte 
+
+Data Science Intern
+
+Oasisinfobyte
+
 Title:Email spam Detection with Machine Learning
+
 📌 Objective
 
 To build a Machine Learning model that automatically classifies emails/messages as Spam or Ham (Not Spam) using Natural Language Processing (NLP) techniques.
