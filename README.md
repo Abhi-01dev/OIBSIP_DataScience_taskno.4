@@ -8,6 +8,8 @@ Oasisinfobyte
 
 Title:Email spam Detection with Machine Learning
 
+Yt Link : https://youtu.be/kYC_w1Or0zw
+
 📌 Objective
 
 To build a Machine Learning model that automatically classifies emails/messages as Spam or Ham (Not Spam) using Natural Language Processing (NLP) techniques.
